@@ -5,7 +5,7 @@ Tools used:
 1. Assetfinder https://github.com/tomnomnom/assetfinder
 2. Amass https://github.com/OWASP/Amass
 3. Httprobe https://github.com/tomnomnom/httprobe
-4. Aquatone 
+4. Aquatone https://github.com/michenriksen/aquatone
 5. Subfinder https://github.com/projectdiscovery/subfinder
 6. Sublist3r https://github.com/aboul3la/Sublist3r
 7. Httpx https://github.com/projectdiscovery/httpx
