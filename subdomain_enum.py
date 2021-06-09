@@ -10,7 +10,7 @@ echo "done"
 
 
 echo "[+] Using amass..."
-amass enum -d $url >> $url/f.txt
+amass enum -passive -d $url > $url/f.txt
 sort -u $url/f.txt >> $url/subs.txt
 rm $url/f.txt
 echo "done"
