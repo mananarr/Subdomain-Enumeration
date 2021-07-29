@@ -11,4 +11,4 @@ Tools used:
 7. Httpx https://github.com/projectdiscovery/httpx
 8. Eyewitness https://github.com/FortyNorthSecurity/EyeWitness
 
-Amass and Aquatone are a bit slow so if you want the results fast to start work on them, please include the amass and aquatone commands in comments.
+Aquatone is a bit slow so if you want the results fast to start work on them, please include the aquatone commands in comments.
