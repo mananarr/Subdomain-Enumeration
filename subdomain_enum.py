@@ -10,9 +10,7 @@ echo "done"
 
 
 echo "[+] Using amass..."
-amass enum -passive -d $url > $url/f.txt
-sort -u $url/f.txt >> $url/subs.txt
-rm $url/f.txt
+amass enum -passive -d $url >> $url/subs.txt
 echo "done"
 
 echo "[+] Probing for alive domains..."
